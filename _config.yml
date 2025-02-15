@@ -1,29 +1,32 @@
 # Site settings
 title: Roberto V. Cucalón
 email: rvc4@illinois.edu
-description: "Ph.D. Candidate in the Program in Evolutio, Ecology, and Conservation Biology at the University of Illinois at Urbana-Champaign"
-baseurl: ""
-url: ""
+description: "Ph.D. Candidate in the Program in Evolution, Ecology, and Conservation Biology at the University of Illinois at Urbana-Champaign"
+baseurl: "" # Leave empty because the site is hosted at the root
+url: "https://rvcucalont.github.io" # Full URL of your GitHub Pages site
 
 # Google analytics ID: Uncomment and your own, if you like
 # google_analytics: XX
-# google_analytics_4: XXX
-# google_tag_manager: XXX
+google_analytics_4: 478320175
+google_tag_manager: GTM-TPHRW389
 
 # Footer info
 affiliation: >
   Roberto V. Cucalón<br/>
   Ph.D. Canditate<br/>
+  Prairie Research Institute<br/>
+  Illinois Natural History Survey<br/>
+  Program in Evolution, Ecology, and Conservation Biology<br/>
   University of Illinois at Urbana-Champaign<br/>
 
 location: >
-  California Institute of Technology<br/>
+  Natural Resource Building<br/>
   607 E Peabody<br/>
   Champaign, IL 18020
 
 contact: >
   <a href="mailto:rvc4@illinois.edu" target="_blank"><i class="fa fa-envelope fa-1x"></i> Contact Roberto via email</a> <br/>
-  <a href="https://github.com/sbryngelson/academic-website-template"><i class="fa fa-github fa-1x"></i> Use this site as a template!</a>
+#  <a href="https://github.com/sbryngelson/academic-website-template"><i class="fa fa-github fa-1x"></i> Use this site as a template!</a>
 
 # Pages shown in navbar
 nav_pages:
@@ -62,8 +65,8 @@ kramdown:
 plugins: ["jekyll/scholar"]
 
 scholar:
-  last_name: Doe
-  first_name: [John]
+  last_name: Cucalón
+  first_name: [Roberto V.]
 
   style: citesty
   locale: en
