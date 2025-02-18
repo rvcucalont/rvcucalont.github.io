@@ -12,7 +12,7 @@ Website in construction
 <div class="container">
 <div class="row">
 <center>
-<img src="{{ site.url }}{{ site.baseurl }}/images/Trabajando-ando.png" width="50%"/><br/>
+<img src="{{ site.url }}{{ site.baseurl }}/images/Roberto_fishCollection.jpg" width="100%"/><br/>
 Trabajando ando. <br/>
 INHS fish collection
 </center>
