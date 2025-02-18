@@ -1,17 +1,20 @@
-- name: Dr. Richard Feynman
-  photo: headshot.jpg
-  info: Richard C. Tolman Professor, California Institute of Technology
-  email: richard@university.edu
-  github: https://github.com/
-  researchgate: https://www.researchgate.net/
-  scholar: https://scholar.google.com/citations?user=B7vSqZsAAAAJ
+- name: Roberto V. Cucalón
+  photo: Trabajando-ando.png
+  info: Roberto V. Cucalón Ph.D. Candidate, University of Illinois at Urbana-Champaign
+  email: rvc4@illinois.idu
+  github: https://github.com/rvcucalont
+ # researchgate: https://www.researchgate.net/
+  scholar: https://scholar.google.com/citations?user=ievG7g8AAAAJ&hl=en
   cv: cv/cv.pdf
   # Change the items in "education" you have (up to 6)
   education:
     [
-      "(1942) Ph.D. Physics, Princeton University",
-      "(1939) B.S. Physics, Massachusetts Institute of Technology",
+      "(2020-present) Ph.D. Candidate, University of Illinois at Urbana-Champaign",
+      "(2019) M.S. Biological Sciences, DePaul University",
+      "(2015) B.S. Biological Sciences, Escuela Superior Politecnica del Litoral"
     ]
 
   educationshort:
-    ["(1942) Ph.D. Physics, Princeton", "(1939) B.S. Physics, MIT"]
+    ["(2020-present) Ph.D. Candidate, UIUC",
+     "(2019) M.S. Biological Sciences, DePaul",
+     "(2015) B.S. Biological Sciences, ESPOL"]
